@@ -1,0 +1,159 @@
+&l3X&l1O&l26A&l5.4C&l5E&a4L(5N(s0p12.5h7.5v0s0b4099T  ECOLE EUR. BRUSSEL 1                 ALLOCATIONS FAMILIALES A PAYER AUX TIERS                   * ES12.1070 *               06/01/15
+  ===============================      ----------------------------------------                                                   1
+
+    9330/7144/20    PERIODE:   01/2012
+
+                                                                                  ALLOC.FAM.NAT                24,25   EUR
+  ENS.      RODRIGUEZ BUENDIA ANTONIO   TIER   :   ABELLAN CARMEN                 COEFF.CORR    ES            0,9740
+            AV.DE L'OBSERVATOIRE 3                 C/FLOR DE LIS 2                COURS STATUTAIRE       1,000000000   EUR
+            1180 BRUXELLES                         30163 MURCIA                   COURS STATUTAIRE       1,000000000   EUR
+                                                                                  % ALLOC. DE FOYER           100,00
+                                        BANQUE :   901350000922
+
+
+  ENF.   DATE.DE.NAIS. A/C  HAND. ALL.SCOL. ALL.FAM.  ALL.SCOLAIRE     SUPPLEM     PLAFOND   X/30
+
+   01     20/02/2001     1     1       0      745,22           ,00         ,00         ,00     30
+
+  DESCRIPTION                                           IL Y A         IL FAUT           SOLDE
+                                                           EURO             EURO            EURO
+  02 ALLOCATION DE FOYER                                 316,63-          316,63             ,00 
+  03 ALLOCATIONS FAMILIALES                              745,22-          745,22             ,00 
+  15 COEFFICIENT CORRECTEUR                               24,42            27,61-           3,19-
+  97 ALLOCATIONS FAM. NATIONAL                            24,25            24,25-            ,00 
+
+                TOTAL      :                                                                3,19-
+
+  ECOLE EUR. BRUSSEL 1                 ALLOCATIONS FAMILIALES A PAYER AUX TIERS                   * ES12.1070 *               06/01/15
+  ===============================      ----------------------------------------                                                   2
+
+    9330/7144/20    PERIODE:   02/2012
+
+                                                                                  ALLOC.FAM.NAT                24,25   EUR
+  ENS.      RODRIGUEZ BUENDIA ANTONIO   TIER   :   ABELLAN CARMEN                 COEFF.CORR    ES            0,9740
+            AV.DE L'OBSERVATOIRE 3                 C/FLOR DE LIS 2                COURS STATUTAIRE       1,000000000   EUR
+            1180 BRUXELLES                         30163 MURCIA                   COURS STATUTAIRE       1,000000000   EUR
+                                                                                  % ALLOC. DE FOYER           100,00
+                                        BANQUE :   901350000922
+
+
+  ENF.   DATE.DE.NAIS. A/C  HAND. ALL.SCOL. ALL.FAM.  ALL.SCOLAIRE     SUPPLEM     PLAFOND   X/30
+
+   01     20/02/2001     1     1       0      745,22           ,00         ,00         ,00     30
+
+  DESCRIPTION                                           IL Y A         IL FAUT           SOLDE
+                                                           EURO             EURO            EURO
+  02 ALLOCATION DE FOYER                                 316,63-          316,63             ,00 
+  03 ALLOCATIONS FAMILIALES                              745,22-          745,22             ,00 
+  15 COEFFICIENT CORRECTEUR                               24,42            27,61-           3,19-
+  97 ALLOCATIONS FAM. NATIONAL                            24,25            24,25-            ,00 
+
+                TOTAL      :                                                                3,19-
+
+  ECOLE EUR. BRUSSEL 1                 ALLOCATIONS FAMILIALES A PAYER AUX TIERS                   * ES12.1070 *               06/01/15
+  ===============================      ----------------------------------------                                                   3
+
+    9330/7144/20    PERIODE:   03/2012
+
+                                                                                  ALLOC.FAM.NAT                24,25   EUR
+  ENS.      RODRIGUEZ BUENDIA ANTONIO   TIER   :   ABELLAN CARMEN                 COEFF.CORR    ES            0,9740
+            AV.DE L'OBSERVATOIRE 3                 C/FLOR DE LIS 2                COURS STATUTAIRE       1,000000000   EUR
+            1180 BRUXELLES                         30163 MURCIA                   COURS STATUTAIRE       1,000000000   EUR
+                                                                                  % ALLOC. DE FOYER           100,00
+                                        BANQUE :   901350000922
+
+
+  ENF.   DATE.DE.NAIS. A/C  HAND. ALL.SCOL. ALL.FAM.  ALL.SCOLAIRE     SUPPLEM     PLAFOND   X/30
+
+   01     20/02/2001     1     1       0      745,22           ,00         ,00         ,00     30
+
+  DESCRIPTION                                           IL Y A         IL FAUT           SOLDE
+                                                           EURO             EURO            EURO
+  02 ALLOCATION DE FOYER                                 316,63-          316,63             ,00 
+  03 ALLOCATIONS FAMILIALES                              745,22-          745,22             ,00 
+  15 COEFFICIENT CORRECTEUR                               24,42            27,61-           3,19-
+  97 ALLOCATIONS FAM. NATIONAL                            24,25            24,25-            ,00 
+
+                TOTAL      :                                                                3,19-
+
+  ECOLE EUR. BRUSSEL 1                 ALLOCATIONS FAMILIALES A PAYER AUX TIERS                   * ES12.1070 *               06/01/15
+  ===============================      ----------------------------------------                                                   4
+
+    9330/7144/20    PERIODE:   04/2012
+
+                                                                                  ALLOC.FAM.NAT                24,25   EUR
+  ENS.      RODRIGUEZ BUENDIA ANTONIO   TIER   :   ABELLAN CARMEN                 COEFF.CORR    ES            0,9740
+            AV.DE L'OBSERVATOIRE 3                 C/FLOR DE LIS 2                COURS STATUTAIRE       1,000000000   EUR
+            1180 BRUXELLES                         30163 MURCIA                   COURS STATUTAIRE       1,000000000   EUR
+                                                                                  % ALLOC. DE FOYER           100,00
+                                        BANQUE :   901350000922
+
+
+  ENF.   DATE.DE.NAIS. A/C  HAND. ALL.SCOL. ALL.FAM.  ALL.SCOLAIRE     SUPPLEM     PLAFOND   X/30
+
+   01     20/02/2001     1     1       0      745,22           ,00         ,00         ,00     30
+
+  DESCRIPTION                                           IL Y A         IL FAUT           SOLDE
+                                                           EURO             EURO            EURO
+  02 ALLOCATION DE FOYER                                 316,63-          316,63             ,00 
+  03 ALLOCATIONS FAMILIALES                              745,22-          745,22             ,00 
+  15 COEFFICIENT CORRECTEUR                               24,42            27,61-           3,19-
+  97 ALLOCATIONS FAM. NATIONAL                            24,25            24,25-            ,00 
+
+                TOTAL      :                                                                3,19-
+
+  ECOLE EUR. BRUSSEL 1                 ALLOCATIONS FAMILIALES A PAYER AUX TIERS                   * ES12.1070 *               06/01/15
+  ===============================      ----------------------------------------                                                   5
+
+    9330/7144/20    PERIODE:   05/2012
+
+                                                                                  ALLOC.FAM.NAT                24,25   EUR
+  ENS.      RODRIGUEZ BUENDIA ANTONIO   TIER   :   ABELLAN CARMEN                 COEFF.CORR    ES            0,9740
+            AV.DE L'OBSERVATOIRE 3                 C/FLOR DE LIS 2                COURS STATUTAIRE       1,000000000   EUR
+            1180 BRUXELLES                         30163 MURCIA                   COURS STATUTAIRE       1,000000000   EUR
+                                                                                  % ALLOC. DE FOYER           100,00
+                                        BANQUE :   901350000922
+
+
+  ENF.   DATE.DE.NAIS. A/C  HAND. ALL.SCOL. ALL.FAM.  ALL.SCOLAIRE     SUPPLEM     PLAFOND   X/30
+
+   01     20/02/2001     1     1       0      745,22           ,00         ,00         ,00     30
+
+  DESCRIPTION                                           IL Y A         IL FAUT           SOLDE
+                                                           EURO             EURO            EURO
+  02 ALLOCATION DE FOYER                                 316,63-          316,63             ,00 
+  03 ALLOCATIONS FAMILIALES                              745,22-          745,22             ,00 
+  15 COEFFICIENT CORRECTEUR                               24,42            27,61-           3,19-
+  97 ALLOCATIONS FAM. NATIONAL                            24,25            24,25-            ,00 
+
+                TOTAL      :                                                                3,19-
+
+  ECOLE EUR. BRUSSEL 1                 ALLOCATIONS FAMILIALES A PAYER AUX TIERS                   * ES12.1070 *               06/01/15
+  ===============================      ----------------------------------------                                                   6
+
+    9330/7144/20    PERIODE:   06/2012
+
+                                                                                  ALLOC.FAM.NAT                24,25   EUR
+  ENS.      RODRIGUEZ BUENDIA ANTONIO   TIER   :   ABELLAN CARMEN                 COEFF.CORR    ES            0,9740
+            AV.DE L'OBSERVATOIRE 3                 C/FLOR DE LIS 2                COURS STATUTAIRE       1,000000000   EUR
+            1180 BRUXELLES                         30163 MURCIA                   COURS STATUTAIRE       1,000000000   EUR
+                                                                                  % ALLOC. DE FOYER           100,00
+                                        BANQUE :   901350000922
+
+
+  ENF.   DATE.DE.NAIS. A/C  HAND. ALL.SCOL. ALL.FAM.  ALL.SCOLAIRE     SUPPLEM     PLAFOND   X/30
+
+   01     20/02/2001     1     1       0      745,22           ,00         ,00         ,00     30
+
+  DESCRIPTION                                           IL Y A         IL FAUT           SOLDE
+                                                           EURO             EURO            EURO
+  02 ALLOCATION DE FOYER                                 316,63-          316,63             ,00 
+  03 ALLOCATIONS FAMILIALES                              745,22-          745,22             ,00 
+  15 COEFFICIENT CORRECTEUR                               24,42            27,61-           3,19-
+  97 ALLOCATIONS FAM. NATIONAL                            24,25            24,25-            ,00 
+
+                TOTAL      :                                                                3,19-
+
+                A PAYER    :             19,14-  EUR
+
+&a1G
