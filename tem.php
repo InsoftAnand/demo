@@ -15,7 +15,7 @@ require_once('include/classes/common_class.php');
 <tr>
 <td><table width="600" cellspacing="0" cellpadding="0" border="0" >
 <tr>
-<td style="width:60%">Choose Your Services Type?</td>
+<td style="width:60%">Choose Your Services Type? testinggggg</td>
 <td>:</td>
 <td>New</td>
 </tr>
